@@ -3,7 +3,7 @@ Raspberry pi3B project aiming to br used as a mini pc when you need something on
 
 PARTS
 
-1 [Raspberry 3B](https://www.amazon.com/s?k=raspberry+pi+3b&crid=2VJ9ABZHHTF2R&sprefix=raspberry+pi+3b%2Caps%2C240&ref=nb_sb_noss_1)
+1. [Raspberry 3B](https://www.amazon.com/s?k=raspberry+pi+3b&crid=2VJ9ABZHHTF2R&sprefix=raspberry+pi+3b%2Caps%2C240&ref=nb_sb_noss_1)
 
 2. [Screen](https://pl.aliexpress.com/item/1005007432461342.html?spm=a2g0o.productlist.main.44.5efb7ce1IoQiDW&algo_pvid=01a04963-08a9-411c-8ce5-64b950ae16be&algo_exp_id=01a04963-08a9-411c-8ce5-64b950ae16be-43&pdp_ext_f=%7B%22order%22%3A%2210133%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%21146.87%2189.59%21%21%21274.73%21167.58%21%40210385bb17721431812904980e6108%2112000040732762130%21sea%21PL%216325993618%21X%211%210%21n_tag%3A-29919%3Bd%3Ac3e11e5e%3Bm03_new_user%3A-29895&curPageLogUid=qNNtFGzwDguq&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007432461342%7C_p_origin_prod%3A#nav-specification)
    
