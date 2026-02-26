@@ -25,6 +25,7 @@ PARTS
 
 6. [Sd Card 256](https://www.amazon.pl/Sandisk-SDSQXAV-256G-GN6MA-Pami%C4%99ci-Microsd-Czerwony/dp/B09X7CRKRZ/ref=sr_1_7?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1PVA9YMUJ8R5U&dib=eyJ2IjoiMSJ9.guM7GBVPPpFKTt-5WghO8hfQalExLknCL43Z3hrc59uUdHQq46-ASqdBmd7evLNuzlj03IM1nWPnl5nO74xvLuxyw3geQwEQM_6xxEJ0IuzooeVnP6A-ZsARskWzWyVYUFaw2JSPT-PcYfqT9svVfLxR2TuqDKtwqPrNZE1HOQqqeLLD-qlhvwVPeO0Xb-S1B3gAR9zML2S147KKFWudvq4JRExYd2DmBnuDt7OlU1xIlEkLttcGemdWPtAfXGZXasLRwgrjU0tSi4fVJs13vWXGmZYSH6FgzV7rG1F0hdk.YIK29kDXzQUH2RQTgooNlPI5EnGNgxcBHkiRe-Yg_9I&dib_tag=se&keywords=micro%2Bsd%2Bcard&qid=1772145062&sprefix=miocro%2Bsd%2Bcard%2Caps%2C100&sr=8-7&th=1)
 
+7.  [Wifi/Bt adapter](https://a.aliexpress.com/_EuzI8fe)
 
 <img width="698" height="484" alt="image" src="https://github.com/user-attachments/assets/bda1d9fd-59a7-42ed-9e15-0a87edeaba10" />
 
