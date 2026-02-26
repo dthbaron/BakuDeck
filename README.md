@@ -17,7 +17,7 @@ PARTS
 
 4. [Usb Hub](https://pl.aliexpress.com/item/1005009419532876.html?spm=a2g0o.productlist.main.64.14e0a2d4Noj5wk&aem_p4p_detail=2026022614165366394339774800004186666&algo_pvid=6dbcc81a-ebe1-4d84-86a7-5055eaaefe48&algo_exp_id=6dbcc81a-ebe1-4d84-86a7-5055eaaefe48-59&pdp_ext_f=%7B%22order%22%3A%22238%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%2138.97%2115.59%21%21%2172.90%2129.17%21%402103835c17721442135351729e9800%2112000049043945072%21sea%21PL%216325993618%21X%211%210%21n_tag%3A-29919%3Bd%3Ac3e11e5e%3Bm03_new_user%3A-29895&curPageLogUid=RBCkrO8TEpX3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009419532876%7C_p_origin_prod%3A&search_p4p_id=2026022614165366394339774800004186666_17)
 
-5.Powerbank to power the thing
+5. Powerbank to power the thing
 
 [5.1 Proposition 1 ](https://pl.aliexpress.com/item/1005011549506802.html?spm=a2g0o.productlist.main.21.18b2W9ssW9ssFk&algo_pvid=8fc0c043-7ea5-420e-ad39-0391e52d9566&algo_exp_id=8fc0c043-7ea5-420e-ad39-0391e52d9566-20&pdp_ext_f=%7B%22order%22%3A%22182%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%21167.47%2166.99%21%21%21313.26%21125.31%21%402103956b17721444715585500e8bcb%2112000055888725811%21sea%21PL%216325993618%21X%211%210%21n_tag%3A-29919%3Bd%3Ac3e11e5e%3Bm03_new_user%3A-29895&curPageLogUid=0WvbCCyf4SnB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011549506802%7C_p_origin_prod%3A)
 
