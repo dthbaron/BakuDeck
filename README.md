@@ -41,5 +41,7 @@ PARTS
 
 7.  [Wifi/Bt adapter](https://a.aliexpress.com/_EuzI8fe)
 
+8. [Cooler](https://www.amazon.pl/GeeekPi-wentylator%C3%B3w-chlodz%C4%85cych-aluminiowy-wentylatorem/dp/B07JGNF5F8/ref=asc_df_B07JGNF5F8?mcid=c48c9e56161c30e6a3442add6742dbb8&tag=plshogostdde-21&linkCode=df0&hvadid=719734599047&hvpos=&hvnetw=g&hvrand=17148503115739311282&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011419&hvtargid=pla-697379938797&psc=1&language=pl_PL&gad_source=1)
+
 <img width="698" height="484" alt="image" src="https://github.com/user-attachments/assets/bda1d9fd-59a7-42ed-9e15-0a87edeaba10" />
 
