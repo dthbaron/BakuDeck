@@ -37,7 +37,7 @@ PARTS
 
 [5.2 Proposition 2 ](https://pl.aliexpress.com/item/1005008639134368.html?spm=a2g0o.productlist.main.33.18b2W9ssW9ssFk&algo_pvid=8fc0c043-7ea5-420e-ad39-0391e52d9566&algo_exp_id=8fc0c043-7ea5-420e-ad39-0391e52d9566-30&pdp_ext_f=%7B%22order%22%3A%222095%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%21111.98%2161.59%21%21%21209.46%21115.20%21%402103956b17721444715585500e8bcb%2112000046056351775%21sea%21PL%216325993618%21X%211%210%21n_tag%3A-29919%3Bd%3Ac3e11e5e%3Bm03_new_user%3A-29895&curPageLogUid=j79HTlC8yjip&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008639134368%7C_p_origin_prod%3A)
 
-6. [Sd Card 256](https://www.amazon.pl/Sandisk-SDSQXAV-256G-GN6MA-Pami%C4%99ci-Microsd-Czerwony/dp/B09X7CRKRZ/ref=sr_1_7?__mk_pl_PL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1PVA9YMUJ8R5U&dib=eyJ2IjoiMSJ9.guM7GBVPPpFKTt-5WghO8hfQalExLknCL43Z3hrc59uUdHQq46-ASqdBmd7evLNuzlj03IM1nWPnl5nO74xvLuxyw3geQwEQM_6xxEJ0IuzooeVnP6A-ZsARskWzWyVYUFaw2JSPT-PcYfqT9svVfLxR2TuqDKtwqPrNZE1HOQqqeLLD-qlhvwVPeO0Xb-S1B3gAR9zML2S147KKFWudvq4JRExYd2DmBnuDt7OlU1xIlEkLttcGemdWPtAfXGZXasLRwgrjU0tSi4fVJs13vWXGmZYSH6FgzV7rG1F0hdk.YIK29kDXzQUH2RQTgooNlPI5EnGNgxcBHkiRe-Yg_9I&dib_tag=se&keywords=micro%2Bsd%2Bcard&qid=1772145062&sprefix=miocro%2Bsd%2Bcard%2Caps%2C100&sr=8-7&th=1)
+6. [Sd Card 128](https://www.amazon.pl/GeeekPi-wentylator%C3%B3w-chlodz%C4%85cych-aluminiowy-wentylatorem/dp/B07JGNF5F8/ref=asc_df_B07JGNF5F8?mcid=c48c9e56161c30e6a3442add6742dbb8&tag=plshogostdde-21&linkCode=df0&hvadid=719734599047&hvpos=&hvnetw=g&hvrand=17148503115739311282&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011419&hvtargid=pla-697379938797&psc=1&language=pl_PL&gad_source=1)
 
 7.  [Wifi/Bt adapter](https://a.aliexpress.com/_EuzI8fe)
 
