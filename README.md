@@ -37,7 +37,7 @@ PARTS
 
 [5.2 Proposition 2 ](https://pl.aliexpress.com/item/1005008639134368.html?spm=a2g0o.productlist.main.33.18b2W9ssW9ssFk&algo_pvid=8fc0c043-7ea5-420e-ad39-0391e52d9566&algo_exp_id=8fc0c043-7ea5-420e-ad39-0391e52d9566-30&pdp_ext_f=%7B%22order%22%3A%222095%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21PLN%21111.98%2161.59%21%21%21209.46%21115.20%21%402103956b17721444715585500e8bcb%2112000046056351775%21sea%21PL%216325993618%21X%211%210%21n_tag%3A-29919%3Bd%3Ac3e11e5e%3Bm03_new_user%3A-29895&curPageLogUid=j79HTlC8yjip&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008639134368%7C_p_origin_prod%3A)
 
-6. [Sd Card 128](https://www.amazon.pl/GeeekPi-wentylator%C3%B3w-chlodz%C4%85cych-aluminiowy-wentylatorem/dp/B07JGNF5F8/ref=asc_df_B07JGNF5F8?mcid=c48c9e56161c30e6a3442add6742dbb8&tag=plshogostdde-21&linkCode=df0&hvadid=719734599047&hvpos=&hvnetw=g&hvrand=17148503115739311282&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1011419&hvtargid=pla-697379938797&psc=1&language=pl_PL&gad_source=1)
+6. [Sd Card 128](https://www.amazon.pl/gp/product/B09X7BK27V/ref=sw_img_2?smid=A2R2221NX79QZP&th=1)
 
 7.  [Wifi/Bt adapter](https://a.aliexpress.com/_EuzI8fe)
 
